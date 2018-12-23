@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "15244f72da19e08765f066b598be66af"
+build_time: [1545607113, 282708000]
+inputs:
+  "/Users/karolmucha/Desktop/Kwalifikacja E.12/Kwalifikacja E.12/ViewController.swift": [1545607086, 0]
+  "/Users/karolmucha/Desktop/Kwalifikacja E.12/Kwalifikacja E.12/AppDelegate.swift": [1545607086, 0]
